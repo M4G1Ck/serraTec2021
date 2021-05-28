@@ -23,7 +23,7 @@
   <br>
 <img height="12px" src="assets/icons8-react-32.png"> [**React**]
   <br>
-<img hight="12px" src="assets/icons8-react-32.png"> [**React Native**]
+<img height="12px" src="assets/icons8-react-32.png"> [**React Native**]
   <br>
 <img height="12px" src="assets/icons8-postgresql-24.png"> [**PostgreSQL**]
   <br>
@@ -40,10 +40,6 @@
 <img height="12px" src="assets/icons8-postman-api-128.png"> [**Postman**]
   <br>
 <img height="12px" src="assets/icons8-oracle-logo-96.png"> [**Oracle JDK**]
-  <br>
-[**UML Designer**]
-  <br>
-[**Draw.io**]
   <br>
 <img height="12px" src="assets/unnamed.png"> [**Portugol Studio**]
   <br>
