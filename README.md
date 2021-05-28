@@ -36,7 +36,7 @@
 <img height="12px" src="assets/icons8-spring-logo-96.png"> [**Spring Boot**]
   <br>
 <img height="12px" src="assets/icons8-spring-logo-96.png"> [**Spring Tools 4**]  
-  <br>
+
 <img height="12px" src="assets/icons8-postman-api-128.png"> [**Postman**]
   <br>
 <img height="12px" src="assets/icons8-oracle-logo-96.png"> [**Oracle JDK**]
