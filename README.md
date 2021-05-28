@@ -11,9 +11,9 @@
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
 </p>
 
- ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
+ ## <img  height="45px" align="center" src="assets/goku.gif"> Tecnologia Utilizada
 
-- [**HTML5**]
+- <img height="24px" src="assets/icons8-html-5-48"> [**HTML5**]
 - [**CSS**]
 - [**JavaScript**]
 - [**Java**]
