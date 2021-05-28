@@ -13,24 +13,41 @@
 
  ## <img  height="45px" align="center" src="assets/goku.gif"> Tecnologia Utilizada
 
-<img height="24px" src="assets/icons8-html-5-48.png"> [**HTML5**]
-<img height="24px" src="assets/icons8-css-filetype-48.png"> [**CSS**]
-<img height="24px" src="assets/icons8-js-52.png"> [**JavaScript**]
-<img height="24px" src="assets/icons8-java-52.png"> [**Java**]
-<img height="24px" src="assets/icons8-react-32.png"> [**React**]
-<img height="24px" src="assets/icons8-react-32.png"> [**React Native**]
-<img height="24px" src="assets/icons8-postgresql-24.png"> [**PostgreSQL**]
-<img height="24px" src="assets/icons8-dbeaver-64.png"> [**DBeaver**]
-<img height="24px" src="assets/icons8-visual-studio-code-2019-48.png"> [**Visual Studio Code**]
-<img height="24px" src="assets/icons8-java-eclipse-30.png"> [**Eclipse**]
-<img height="24px" src="assets/icons8-spring-logo-96.png"> [**Spring Boot**]
-<img height="24px" src="assets/icons8-spring-logo-96.png"> [**Spring Tools 4**]  
-<img height="24px" src="assets/icons8-postman-api-128.png"> [**Postman**]
-<img height="24px" src="assets/icons8-oracle-logo-96.png"> [**Oracle JDK**]
+<img height="18px" src="assets/icons8-html-5-48.png"> [**HTML5**]
+<br>
+<img height="18px" src="assets/icons8-css-filetype-48.png"> [**CSS**]
+  <br>
+<img height="18px" src="assets/icons8-js-52.png"> [**JavaScript**]
+  <br>
+<img height="18px" src="assets/icons8-java-52.png"> [**Java**]
+  <br>
+<img height="18px" src="assets/icons8-react-32.png"> [**React**]
+  <br>
+<img hight="18px" src="assets/icons8-react-32.png"> [**React Native**]
+  <br>
+<img height="18px" src="assets/icons8-postgresql-24.png"> [**PostgreSQL**]
+  <br>
+<img height="18px" src="assets/icons8-dbeaver-64.png"> [**DBeaver**]
+  <br>
+<img height="18px" src="assets/icons8-visual-studio-code-2019-48.png"> [**Visual Studio Code**]
+  <br>
+<img height="18px" src="assets/icons8-java-eclipse-30.png"> [**Eclipse**]
+  <br>
+<img height="18px" src="assets/icons8-spring-logo-96.png"> [**Spring Boot**]
+  <br>
+<img height="18px" src="assets/icons8-spring-logo-96.png"> [**Spring Tools 4**]  
+  <br>
+<img height="18px" src="assets/icons8-postman-api-128.png"> [**Postman**]
+  <br>
+<img height="18px" src="assets/icons8-oracle-logo-96.png"> [**Oracle JDK**]
+  <br>
 [**UML Designer**]
+  <br>
 [**Draw.io**]
-<img height="24px" src="assets/unnamed.png"> [**Portugol Studio**]
-<img height="24px" src="assets/sticker-png-numix-circle-for-windows-astah-pro-icon-thumbnail-removebg-preview.png"> [**Astah**]
-<img height="24px" src="assets/icons8-intellij-idea-48.png"> [**IntelliJIdeaUltimate**]
-
+  <br>
+<img height="18px" src="assets/unnamed.png"> [**Portugol Studio**]
+  <br>
+<img height="18px" src="assets/sticker-png-numix-circle-for-windows-astah-pro-icon-thumbnail-removebg-preview.png"> [**Astah**]
+  <br>
+<img height="18px" src="assets/icons8-intellij-idea-48.png"> [**IntelliJIdeaUltimate**]
 </br>
