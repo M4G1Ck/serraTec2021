@@ -1,0 +1,38 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real tempcelsius, tempfahr
+		escreva("Digite o valor da temperatura em °C: ")
+		leia(tempcelsius)
+
+		tempfahr = (1.8 * tempcelsius) + 32
+		
+		escreva("O valor da temperatura em fahrenheit é: ",tempfahr, "\n")
+		
+		se(tempfahr<=50.0)
+		{
+		escreva("O estado da água será líquida\n")
+		}
+		se(tempfahr<=100.0)
+		{
+		escreva("O estado físico da água nessa temperatura será encontrada em forma gasosa\n")
+		}
+		se(tempfahr>100.0)
+		{
+		escreva("O estado físico da água nessa temperatura será encontrada em forma sólida\n")
+		}
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 462; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */

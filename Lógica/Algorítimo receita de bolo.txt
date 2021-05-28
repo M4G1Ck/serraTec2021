@@ -1,0 +1,67 @@
+Ingredientes (Massa)
+2 xícaras de açucar
+3 xícaras de trigo
+1 xícara de leite
+1 colher de sopa de fermento em pó
+2 colheres de sopa de Manteiga
+3 Ovos 
+1 xícara de chocolate em pó
+(Deixar sobra de manteiga e Trigo para untar a forma)
+
+Ingredientes (Cobertura)
+1 lata de leite de moça
+1 barra de chocolate 
+1 caixa de creme de leite
+1 colher de manteiga
+
+Modo de preparo (bolo) --- Algorítimo
+1.Pegar todos os ingredientes para o bolo e cobertura, se necessário, ir ao mercado comprar os ingredientes.
+2.Preparar uma mesa ou um lugar específico para construção do bolo, de preferência um lugar que possa sujar.
+3.Separar os ingredientes para a cobertura e para massa.
+4.Pegar uma batedeira e botar na mesa.
+	4.1 Ligar o forno e pré aquecelo a (180°-200° média);
+5.Pegar os seguintes ingredientes (em suas respectivas proporções) da massa e botar dentro da batededeira.
+	-Manteiga
+	-Ovos
+	-Açucar
+	-Chocolate em pó
+6.Ligar a batedeira na tomada
+7.Começar a bater tais ingredientes como segue o passo (5), até que fique homogêneo.
+8.Desligar a batedeira e tirar da tomada.
+9.Acrescentar na batedeira POR ÚLTIMO, Leite, trigo, fermento (em suas respectivas quantidades, como seguem a lista de ingredientes)
+10.Misturar bem
+11.Separar a batedeira.
+12.Pegar uma forma redonda com furo central.
+13. Separa-la na mesa.
+14. Untar a forma descrita (12), com manteiga e polvilhar com farinha de trigo.
+15.Depois de untada, botar a massa dentro da forma.
+16.Separar a forma.
+17.Se terminado o tempo de pré aquecimento do forno (4.1), Levar a forma com a massa para o forno.
+18.Deixar cerca de 40 minutos.
+19.Passado o tempo, retirar a forma com cuidado; Lembrando de:
+	-Pegar uma luva ou um pano para retirar a forma quente;
+20.Esperar amornar. Para isso fazer a corbertura;
+21.Pegar uma panela.
+22.Colocar na mesa.
+23.Pegar os ingredientes conforme descritos com as respectivas quantidades para a cobertura.
+24.Colocar na panela os seguintes ingredientes;
+	-Leite moça
+	-Barra de chocolate
+	-Manteiga
+25. Misturar bem com uma colher.
+26. Pegar a panela e levar ao fogo médio, por cerca de 8 minutos ou até desgrudar do fundo da panela.
+27. Desligar o fogo.
+28. Pegar o creme de leite,
+29. Pegar uma tesoura.
+30. Cortar a caixa de creme de leite.
+31. Colocar a caixa de creme de leite na panela.
+32. Misturar bem, com a colher.
+33.Esperar amornar.
+34. Pegar o bolo.
+35.Desenformar o bolo, com cuidado.
+36. Pegar a panela com a cobertura.
+37. Despejar ela em cima do bolo de forma que fique em volta do bolo todo.
+38. O restantes despejar no furo central do bolo.
+
+
+	
