@@ -1,0 +1,124 @@
+li {
+    list-style-type: none;
+  }
+
+
+  .botao01 {
+    background-color: white; 
+    border: 1px solid #CCCCCE;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                  0 2px 7px rgba(0, 0, 0, 0.2);
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Metropolis";
+    font-weight: bold;
+    line-height: 25px;
+    text-align: center;
+    padding: 15px 5px;
+    position: relative;
+    width: 200px;
+}
+    .botao01:hover {
+    background-color: #E01B6A;
+    color: black;
+}
+
+.botao02 {
+    background-color: white; 
+    border: 1px solid #CCCCCE;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                  0 2px 7px rgba(0, 0, 0, 0.2);
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Metropolis";
+    font-weight: bold;
+    line-height: 25px;
+    text-align: center;
+    padding: 15px 5px;
+    position: relative;
+    width: 200px;
+}
+   .botao02:hover {
+    background-color: #E01B6A;
+    color: black;
+    }
+
+    .botao03 {
+        background-color: white; 
+        border: 1px solid #CCCCCE;
+        border-radius: 3px;
+        box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                      0 2px 7px rgba(0, 0, 0, 0.2);
+        color: black;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        cursor: pointer;
+        font-family: "Metropolis";
+        font-weight: bold;
+        line-height: 25px;
+        text-align: center;
+        padding: 15px 5px;
+        position: relative;
+        width: 200px;
+    }
+       .botao03:hover {
+        background-color: #E01B6A;
+        color: black;
+        }
+
+        .botao04 {
+            background-color: white; 
+            border: 1px solid #CCCCCE;
+            border-radius: 3px;
+            box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+                          0 2px 7px rgba(0, 0, 0, 0.2);
+            color: black;
+            padding: 16px 32px;
+            text-align: center;
+            text-decoration: none;
+            text-transform: uppercase;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
+            cursor: pointer;
+            font-family: "Metropolis";
+            font-weight: bold;
+            line-height: 25px;
+            text-align: center;
+            padding: 15px 5px;
+            position: relative;
+            width: 200px;
+        }
+           .botao04:hover {
+            background-color: #E01B6A;
+            color: black;
+            }
