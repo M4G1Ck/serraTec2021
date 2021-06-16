@@ -1,0 +1,36 @@
+Criar uma API para um Ecommerce atendendo sos seguintes Requisitos:
+
+
+. Utilizar um sistema de login de usuários.
+. Um Cliente poderá se cadastrar livremente.
+. Para o cadastro cliente deverá informar os dados mapeados na tabela "Cliente". O Endereço deverá ser validado através da API Via Cep.
+. Após logado o Cliente poderá fazer as seguintes operações:(Com exceção das duas ultimas todas não poderão ser realizadas sem o envio do token - autenticação na API)
+- Atualizar seus proprios dados pessoais (como Endereço, Telefone, menos CPF).
+- Deletar sua propria conta.
+- Criar um novo Pedido  
+- Editar um pedido com status de não finalizado.
+- Finalizar um pedido, alterar seu status para finalizado. Ao finalizar o pedido enviar e-mail para o cliente informando data de entrega, produtos, quantidades e valor final do pedido.
+- Visualizar todas as categorias ou uma especifica pelo nome.
+- Visualizar todos os produtos ou um específico pelo nome.
+
+
+. Sem estar logado ele poderá:
+- Visualizar todas as categorias ou uma especifica pelo nome.
+- Criar uma nova categoria.
+- Editar uma categoria.
+- Deletar uma categoria
+- Visualizar todos os produtos ou um específico pelo nome.
+- Criar um novo produto (Com imagem).
+- Editar um produto.
+- Deletar um produto.
+- Visualizar todos os pedidos.
+- Excluir algum pedido.
+
+
+Os principais campos deverão ser validados, (cpf, produto não poderá ter valores negativos, etc.) e todas as exceções deverão serem tratadas.
+
+
+A Api deverá utilizar como documentação a ferramenta do Swagger.
+
+
+Desafio Extra (Opcional): opção de esqueci minha senha com envio de um código de verificação para o e-mail e posterior verificação se esse código pertence ao cliente; implementação de segurança utilizando token.
