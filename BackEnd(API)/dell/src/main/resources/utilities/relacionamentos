@@ -1,0 +1,4 @@
+customers -> order = one to many
+customers -> cust_hist = one to many
+orders -> orderlines = one to many
+products -> orderlines = one to many
